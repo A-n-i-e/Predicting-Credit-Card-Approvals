@@ -33,4 +33,5 @@ The data used is a small subset of the Credit Card Approval dataset from the UCI
 
 ## Results
 Model trained with Logistic Regression
-Best Score: 0.8478296478296479 and Parameters used: {'C': 0.01, 'penalty': 'l2'}
+
+Accuracy: 84.78296478296479% and Parameters used: {'C': 0.01, 'penalty': 'l2'}
